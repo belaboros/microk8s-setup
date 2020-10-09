@@ -10,3 +10,6 @@ microk8s.kubectl get all --all-namespaces |grep kubernetes-dashboard | grep Clus
 
 
 #kubernetes.io/cluster-service=true
+
+echo -e "\n\nmicrok8s kubectl get all --all-namespaces"
+microk8s kubectl get all --all-namespaces

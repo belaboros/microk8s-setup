@@ -1,2 +1,2 @@
-microk8s.stop
+microk8s stop
 
